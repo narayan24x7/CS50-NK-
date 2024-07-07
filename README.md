@@ -15,9 +15,6 @@ CS50 is an introduction to the intellectual enterprises of computer science and 
 ## Task List
 The tasks are organized by week and cover various aspects of computer science:
 
-### Week 0: Scratch
-- Task 1: Scratch Project
-
 ### Week 1: C
 - Task 1: Hello
 - Task 2: Cash
@@ -66,7 +63,7 @@ To run the code in this repository, follow these steps:
 
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/cs50-2024.git
+   git clone https://github.com/narayan24x7/CS50-NK.git
    cd cs50-2024
    
 
