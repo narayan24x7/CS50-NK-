@@ -63,7 +63,7 @@ To run the code in this repository, follow these steps:
 
 1. Clone the repository:
    bash
-   git clone https://github.com/narayan24x7/CS50-NK-.git
+   git clone https://github.com/narayan24x7/CS50-NK.git
    cd cs50-2024
    
 
